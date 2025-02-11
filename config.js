@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "sorry, damaris.",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "IM THE LUCKIEST! YAY LOVE YOU BUBBAS",
         message: "february 22nd.",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "<div class="tenor-gif-embed" data-postid="9352493230624098184" data-share-method="host" data-aspect-ratio="1.80435" data-width="100%"><a href="https://tenor.com/view/brooo-bigboytv-jaden-smith-meme-gif-9352493230624098184">Brooo Bigboytv GIF</a>from <a href="https://tenor.com/search/brooo-gifs">Brooo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"  // These will bounce around
     },
 
     // Color scheme for the website
